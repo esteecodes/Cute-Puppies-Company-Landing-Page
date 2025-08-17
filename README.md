@@ -1,4 +1,4 @@
-<h2><a href="https://esthersoftwaredev.github.io/Cute-Puppies-Company-Landing-Page/" target="_blank">'Cute Puppies' Company Landing Page</a></h2>
+<h2><a href="https://esteecodes.github.io/Cute-Puppies-Company-Landing-Page/" target="_blank">'Cute Puppies' Company Landing Page</a></h2>
 
 <p> I did this project as part of the CodeCademy Frontend Engeneer Path, <br>
   but I did many extra things that were not required, and it was self practice not guided practice, <br> 
@@ -11,10 +11,10 @@
 ## 🔗 More Projects
 
 Check out my latest and more elaborate projects on my website:  
-🌐 **[esthersoftware.dev](https://esthersoftware.dev)**
+🌐 **[esteecodes.com](https://esteecodes.com)**
 
 ---
 
 Thank you for visiting! 😊
 
-<a href='https://ko-fi.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/esteecodes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
